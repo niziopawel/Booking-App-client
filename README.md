@@ -20,4 +20,8 @@ Project is created with:
 
 ## Screenshot
 
-![image](./screenshots/ss.png)
+![image](./screenshots/s1.png)
+![image](./screenshots/s2.png)
+![image](./screenshots/s3.png)
+![image](./screenshots/s4.png)
+

@@ -20,5 +20,5 @@ Project is created with:
 
 ## Screenshot
 
-<img src="./screenshots/s1" heidht="200"/>
+<img src="./screenshots/s1.png" heidht="200"/>
 

@@ -20,8 +20,5 @@ Project is created with:
 
 ## Screenshot
 
-![image](./screenshots/s1.png)
-![image](./screenshots/s2.png)
-![image](./screenshots/s3.png)
-![image](./screenshots/s4.png)
+<img src="./screenshots/s1" heidht="200"/>
 

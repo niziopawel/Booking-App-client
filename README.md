@@ -21,12 +21,12 @@ Project is created with:
 ## Screenshot
 Few screenshots example from application appearance
 
-<p align="center">
+<div>
   <img src="screenshots/s1.png" width="200" height="400">
   <img src="screenshots/s2.png" width="200" height="400">
-</p>
-<p align="center">
+</div>
+<div>
   <img src="screenshots/s3.png" width="200" height="400">
   <img src="screenshots/s4.png" width="200" height="400">
-</p>
+</div>
 

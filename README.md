@@ -19,10 +19,13 @@ Project is created with:
 - Redux
 
 ## Screenshot
+Few screenshots example from application appearance
 
 <p align="center">
   <img src="screenshots/s1.png" width="200" height="400">
   <img src="screenshots/s2.png" width="200" height="400">
+</p>
+<p align="center">
   <img src="screenshots/s3.png" width="200" height="400">
   <img src="screenshots/s4.png" width="200" height="400">
 </p>

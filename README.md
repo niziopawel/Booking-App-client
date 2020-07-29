@@ -19,7 +19,7 @@ Project is created with:
 - Redux
 
 ## Screenshot
-Few screenshots example from application appearance
+A few sample screenshots of the application's appearance
 
 <div>
   <img src="screenshots/s1.png" width="200" height="400">
